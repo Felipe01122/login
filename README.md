@@ -26,7 +26,7 @@ Aplicação web desenvolvida para gerenciar cadastro e login de usuários, com f
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/Felipe01122/login.git](https://github.com/Felipe01122/login.git)
+git clone https://github.com/Felipe01122/login.git
 ```
 
 2. Instale as dependências necessárias:
