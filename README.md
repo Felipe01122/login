@@ -25,15 +25,19 @@ Aplicação web desenvolvida para gerenciar cadastro e login de usuários, com f
 ## 🚀 Como Executar o Projeto Localmente
 
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Felipe01122/login.git](https://github.com/Felipe01122/login.git)
-Instale as dependências necessárias:
+```bash
+git clone [https://github.com/Felipe01122/login.git](https://github.com/Felipe01122/login.git)
+```
 
+2. Instale as dependências necessárias:
+```bash
 pip install flask
+```
 
-Execute a aplicação:
-
+3. Execute a aplicação:
+```bash
 python app.py
+```
 Acesse no seu navegador: http://127.0.0.1:5000
 
 Desenvolvido por Felipe da Silva Santos 👋
